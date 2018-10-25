@@ -1,0 +1,18 @@
+ul {
+    list-style-type: none;
+    margin: 15px 10px;
+    padding: 50px 30px;
+    width:100px;
+    
+}
+.navbar navbar-default{
+    text-align: right;
+    padding:30px 20px;
+}
+.active{
+    margin:10px 15px;
+    padding:5px 10px;
+}
+li a:hover {
+    background-color: blue;
+}
